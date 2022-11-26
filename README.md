@@ -121,7 +121,7 @@ How To Deploy 👉
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Midukki-RoBoT">
+<a href="https://heroku.com/deploy?template=https://github.com/dhanushps/midukki">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -139,7 +139,7 @@ How To Deploy 👉
 ### Repo Status
 
 <h1>
-  <a href="https://github.com/Pr0fess0r-99/Midukki-RoBoT"><img align="left" height="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0fess0r-99&repo=Midukki-RoBoT&theme=onedark&hide_border=true&hide=html,css&langs_count=7" /></a>
+  <a href="https://github.com/dhanushps/midukki"><img align="left" height="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0fess0r-99&repo=Midukki-RoBoT&theme=onedark&hide_border=true&hide=html,css&langs_count=7" /></a>
 
   [![Midukki-RoBoT](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Midukki-RoBoT&align="center")](https://github.com/PR0FESS0R-99/Midukki-RoBoT)
 
